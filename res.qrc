@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>images/icon.png</file>
+    </qresource>
+    <qresource prefix="/chesspiece">
+        <file>images/ChessPieces/WhiteRook.png</file>
+        <file>images/ChessPieces/WhiteQueen.png</file>
+        <file>images/ChessPieces/WhitePawn.png</file>
+        <file>images/ChessPieces/WhiteKnight.png</file>
+        <file>images/ChessPieces/WhiteKing.png</file>
+        <file>images/ChessPieces/WhiteBishop.png</file>
+        <file>images/ChessPieces/BlackRook.png</file>
+        <file>images/ChessPieces/BlackQueen.png</file>
+        <file>images/ChessPieces/BlackPawn.png</file>
+        <file>images/ChessPieces/BlackKnight.png</file>
+        <file>images/ChessPieces/BlackKing.png</file>
+        <file>images/ChessPieces/BlackBishop.png</file>
+    </qresource>
+    <qresource prefix="/buttons">
+        <file>images/Buttons/quitButton.png</file>
+        <file>images/Buttons/playButton.png</file>
+        <file>images/Buttons/restartButton.png</file>
+        <file>images/Buttons/undoButton.png</file>
+        <file>images/Buttons/surrenderButton.png</file>
+        <file>images/Buttons/drawButton.png</file>
+        <file>images/Buttons/acceptButton.png</file>
+        <file>images/Buttons/declineButton.png</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>images/Textures/wood.jpg</file>
+        <file>images/Textures/panelBackground.png</file>
+    </qresource>
+    <qresource prefix="/winners">
+        <file>images/Winners/whiteWon.png</file>
+        <file>images/Winners/noneWon.png</file>
+        <file>images/Winners/blackWon.png</file>
+    </qresource>
+    <qresource prefix="/moves">
+        <file>images/Moves/whiteMove.png</file>
+        <file>images/Moves/blackMove.png</file>
+        <file>images/Moves/check.png</file>
+        <file>images/Moves/offeredDraw.png</file>
+        <file>images/pickPromotion.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>images/background.png</file>
+        <file>images/movesBackground.png</file>
+    </qresource>
+</RCC>
