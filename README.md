@@ -1,2 +1,2 @@
-# Chess 程设国际象棋大作业
+# Chess Programming Project for International Chess
 Qt
